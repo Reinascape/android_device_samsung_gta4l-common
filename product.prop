@@ -19,3 +19,5 @@ ro.setupwizard.mode=OPTIONAL
 ro.opa.eligible_device=true
 ro.com.google.gmsversion=12_202204
 ro.bpf.kver_override=5.10.239
+# Settings
+persist.settings.large_screen_opt.enabled=true
